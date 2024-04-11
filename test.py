@@ -1,1 +1,1 @@
-print ("this is a test content for develop")
+print ("this is a test content for uat")
